@@ -1,2 +1,3 @@
 # javaprivate
 Private Java Repo
+This is new java project....
