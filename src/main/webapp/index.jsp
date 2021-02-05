@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>CI/CD Pipeline Using both the Ansible and Docker...... Modifed Pipeline...</h1>
+<h1>Deploying Application on Kubernetes Cluster......</h1>
 </body>
 </html>
